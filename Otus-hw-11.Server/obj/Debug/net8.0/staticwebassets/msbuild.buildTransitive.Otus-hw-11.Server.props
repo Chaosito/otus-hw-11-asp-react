@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Otus-hw-11.Server.props" />
+</Project>

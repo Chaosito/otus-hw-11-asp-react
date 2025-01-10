@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:49493",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\77779\\source\\repos\\Otus-hw-11\\Otus-hw-11.Server\\..\\otus-hw-11.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

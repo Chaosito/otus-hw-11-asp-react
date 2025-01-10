@@ -1,0 +1,6 @@
+@Otus_hw_11.Server_HostAddress = http://localhost:5255
+
+GET {{Otus_hw_11.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "SmdK63Ug2FAO8ez6N5ir4fDDazVtsTlgyMtOPGQQT64=",
+  "Source": "Otus-hw-11.Server",
+  "BasePath": "_content/Otus-hw-11.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\77779\\source\\repos\\Otus-hw-11\\otus-hw-11.client\\otus-hw-11.client.esproj",
+      "Version": 2,
+      "Source": "otus-hw-11.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
